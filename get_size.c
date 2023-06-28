@@ -1,9 +1,9 @@
 #include "main.h"
 /*
- * get_size - function tat calculates tth esize to cast the argument
+ * get_size -  calculates the size to cast the argument
  * @format: format string in which to print arguments
  * @i: list of argument to be printed
- * Return: Precision
+ * Return: Size
  */
 int get_size(const char *format, int *i)
 {
